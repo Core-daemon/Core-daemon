@@ -1,94 +1,59 @@
 # Mohammad Sorower Jahan
 
-### Digital Technology & Telecommunications Infrastructure Engineer
+## VoIP, Telecommunications Infrastructure and Linux Systems Engineer
 
-I am a telecommunications and infrastructure engineer with 15+ years of practical experience across **VoIP, SIP, network infrastructure, Linux systems, virtualisation, DevOps/SysOps and infrastructure security**.
+I work across VoIP signalling, SIP/RTP infrastructure, Linux systems,
+virtualisation and network architecture.
 
-My engineering work focuses on designing, implementing and optimising reliable communication and network infrastructure, particularly for VoIP and telecommunications environments.
+My engineering work has included multi-network SIP interworking,
+NAT-traversing telecommunications infrastructure, RTP media-path
+optimisation, VoIP bandwidth optimisation and Linux-based
+telecommunications systems.
 
----
+## Selected Engineering Work
 
-## Core Engineering Areas
+### [NAT-Traversing Multi-Network VoIP Routing Platform](https://github.com/Core-daemon/nat-voip-routing-platform)
 
-- VoIP & SIP Infrastructure
-- Asterisk & Softswitch Platforms
-- SIP / SDP / RTP / IAX2
-- Telecommunications Network Engineering
-- Linux Systems Administration
-- Proxmox Virtualisation
-- Network Routing, NAT & Firewalling
-- QoS & Traffic Engineering
-- SIP Trunking & Media Routing
-- Infrastructure Monitoring & Automation
-- VoIP Security & Fraud Prevention
-- DevOps / SysOps
+A 2025 R&D engineering project involving Asterisk, SIP, SDP, RTP,
+multi-network routing, NAT traversal, private telecommunications
+connectivity and SIP gateway interworking.
 
----
+The repository documents the network architecture, SIP routing,
+gateway integration and technical verification of the retained
+engineering environment.
 
-## Featured Engineering Projects
+### [VoIP Media Bypass Optimisation](https://github.com/Core-daemon/voip-media-bypass-optimization)
 
-### NAT-Traversing Multi-Network VoIP Routing & SIP Media Interworking Platform
+Asterisk-based media-path optimisation in which SIP signalling and
+call control remained centralised while eligible RTP media was allowed
+to flow directly between media endpoints.
 
-A technical architecture addressing **NAT traversal, SIP signalling, RTP media routing, network isolation and SIP-trunk connectivity** across multiple network segments.
+The work focused on reducing unnecessary media processing and
+central-server resource utilisation in a high-concurrency VoIP
+environment.
 
-**Technologies:** Asterisk, SIP, SDP, RTP, Linux, Proxmox, Debian, CentOS, NAT, DMZ and static routing.
+### [VoIP Bandwidth Optimisation](https://github.com/Core-daemon/voip-bandwidth-optimization)
 
-### SIP–IAX2 Interworking & Bandwidth Optimisation
+Historical VoIP engineering work involving SIP-to-IAX2 transport
+across bandwidth-constrained telecommunications networks.
 
-Technical documentation covering SIP and IAX2 interworking, codec behaviour and bandwidth-efficient VoIP transport.
+The project investigated how changing the transport architecture
+could reduce bandwidth consumption while maintaining SIP
+interoperability at the network edges.
 
-### Asterisk VoIP Engineering Lab
+## Technical Areas
 
-Practical Asterisk configurations, SIP call-flow examples, troubleshooting procedures and Linux-based VoIP experiments.
+- VoIP / SIP / SDP / RTP
+- Asterisk
+- Linux infrastructure
+- Proxmox and virtualisation
+- TCP/IP, routing and switching
+- NAT and firewalling
+- SIP gateway and trunk integration
+- Telecommunications infrastructure
+- Network architecture and troubleshooting
+- VoIP performance and resource optimisation
 
-### VoIP Infrastructure Automation
+## Website
 
-Automation and operational tooling for Linux-based VoIP infrastructure, service monitoring, configuration validation and infrastructure operations.
-
-### VoIP Security & Fraud Monitoring
-
-Technical work covering SIP authentication, abnormal traffic detection, firewall controls and VoIP infrastructure security.
-
----
-
-## Technical Interests
-
-**Telecommunications | VoIP | SIP | Network Engineering | Linux | Infrastructure Automation | DevOps/SysOps | Cybersecurity**
-
----
-
-## Engineering Approach
-
-My work combines practical telecommunications engineering with systems and network infrastructure.
-
-I focus on:
-
-- Designing reliable infrastructure
-- Solving complex connectivity and routing problems
-- Improving network and VoIP efficiency
-- Integrating heterogeneous systems
-- Automating operational processes
-- Documenting reproducible technical solutions
-- Applying security and resilience principles to infrastructure
-
----
-
-## Documentation
-
-The repositories in this profile document practical engineering concepts, laboratory implementations and selected technical work.
-
-Production systems and confidential customer, carrier and business information are intentionally excluded. Examples are sanitised where necessary to protect operational and commercial information.
-
----
-
-## Professional Profile
-
-- **Website:** [msjahan.com](https://www.msjahan.com)
-- **LinkedIn:** [Mohammad Sorower Jahan](https://www.linkedin.com/in/mohammad-sorower-jahan-349009106/)
-- **GitHub:** [Core-daemon](https://github.com/Core-daemon)
-
----
-
-### Technologies
-
-`VoIP` `SIP` `Asterisk` `IAX2` `RTP` `Linux` `Proxmox` `Debian` `CentOS` `MikroTik` `Networking` `NAT` `QoS` `Routing` `DevOps` `SysOps` `Cybersecurity`
+[www.msjahan.com](https://www.msjahan.com)
